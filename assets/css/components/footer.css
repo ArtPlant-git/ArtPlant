@@ -1,0 +1,12 @@
+/* footer.css - 푸터 스타일 */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+footer a {
+    color: #ddd;
+    font-size: 14px;
+}

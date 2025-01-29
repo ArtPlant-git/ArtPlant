@@ -1,0 +1,14 @@
+/* event.css - 이벤트 페이지 스타일 */
+.event-list {
+    list-style: none;
+    padding: 0;
+}
+
+.event-list li {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.event-list li:last-child {
+    border-bottom: none;
+}

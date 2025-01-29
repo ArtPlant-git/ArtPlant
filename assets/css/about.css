@@ -1,0 +1,15 @@
+/* about.css - 소개 페이지 스타일 */
+.about-section {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+.about-section h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.about-section p {
+    font-size: 1.2em;
+    color: #666;
+}

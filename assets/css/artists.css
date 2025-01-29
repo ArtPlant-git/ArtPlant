@@ -1,0 +1,32 @@
+.artist-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.artist {
+    width: 45%;
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.artist h2 {
+    font-size: 22px;
+    color: #333;
+}
+
+.artist p{
+    font-size: 16px;
+    color: #666;
+}
+
+@media screen and (max-width: 768px) {
+    .artist {
+        width: 100%;
+    }
+    
+}

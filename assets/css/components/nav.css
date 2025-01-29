@@ -1,0 +1,24 @@
+/* nav.css - 네비게이션 스타일 */
+nav {
+    background: #222;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+nav ul li {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+nav ul li a {
+    color: #fff;
+    padding: 10px;
+}
